@@ -1,0 +1,2 @@
+﻿PRESENCIAL;A01;Fotografia;5000.0;2;1
+VIRTUAL;A02;Excel basico;4000.0;3;0
